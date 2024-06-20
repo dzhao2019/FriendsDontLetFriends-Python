@@ -9,30 +9,60 @@ This repository is the Python version of the FriendsDontLetFriends project, orig
 
 The FriendsDontLetFriends repository is designed to showcase advanced techniques in data processing and visualization using R. It includes a series of R Markdown files (.rmd) that guide users through various data manipulation and visualization tasks. The repository is a valuable resource for data scientists, analysts, and anyone interested in learning how to effectively work with data in R.
 
-### Key Features
-
-- **Data Manipulation:** Utilizes the `dplyr` package for efficient data wrangling and manipulation.
-- **Visualization:** Employs `ggplot2`, one of the most powerful and flexible visualization libraries in R, to create a wide range of plots and charts.
-- **Reproducible Research:** Uses R Markdown to combine code, output, and text in a single document, making it easy to reproduce analyses and share findings.
-- **Educational Resource:** Serves as a comprehensive guide for learning data analysis and visualization in R, complete with detailed explanations and code examples.
-
-### Contents
-
-The repository contains several key components:
-
-1. **R Markdown Files:** These files provide step-by-step instructions for data analysis and visualization tasks.
-2. **Data Files:** Sample datasets used in the analyses.
-3. **Output Files:** Generated visualizations and reports that demonstrate the results of the analyses.
-
 ### Author
 
 **CX Li**  
 Email: cxli233@gmail.com
 
-CX Li is a proficient data scientist and R programmer with a passion for data visualization and analysis. This repository reflects their expertise and commitment to sharing knowledge with the data science community.
-
 ### Original Repository
 
 For more details and to explore the original project, visit the [FriendsDontLetFriends GitHub repository](https://github.com/cxli233/FriendsDontLetFriends).
+
+## Python Version of FriendsDontLetFriends
+
+### Table of Contents
+
+
+### 1. Means Separation
+Bar plot vs. Box plot vs. Dot plot
+
+### 2. Small Sample Sizes
+Violet plot vs. Box plot vs. Dot plot
+
+### 3. Unidirectional Data
+
+
+### 4. Multi-factorial Experiment
+Bar plot vs. Dot plot
+
+### 5. Reordering Rows & Columns for Heatmap
+
+
+### 6. Checking outliers for Heatmap
+
+
+### 7. Don't Forget to Check Data Range
+
+
+### 8. Trying Different Layouts for Network Graphs
+
+
+### 9. Don't Confuse Position-based Visualizations with Length-based Visualizations
+
+
+### 10. Pie Chart
+Pie charts vs. Donut charts vs. Stacked bars
+
+### 11. Concentric Donuts
+Concentric Donut plot vs. Stacked Bar plot
+
+### 12. Choosing Colors: Red/Green & Rainbow Color Scales
+
+
+### 13. Reordering Stacked Bar Plot
+
+
+### 14. Mean Separation
+
 
 
