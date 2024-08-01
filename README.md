@@ -22,6 +22,19 @@ For more details and to explore the original project, visit the [FriendsDontLetF
 
 ### Table of Contents
 1. [Means Separation](https://github.com/dzhao2019/FriendsDontLetFriends-Python#1.-Means-Separation)
+2. [Small Sample Sizes](https://github.com/dzhao2019/FriendsDontLetFriends-Python#2.-Small-Sample-Sizes)
+3. [Unidirectional Data](https://github.com/dzhao2019/FriendsDontLetFriends-Python#3.-Unidirectional-Data)
+4. [Multi-factorial Experiment](https://github.com/dzhao2019/FriendsDontLetFriends-Python#4.-Multi-factorial-Experiment)
+5. [Reordering Rows & Columns for Heatmap](https://github.com/dzhao2019/FriendsDontLetFriends-Python#5.-Reordering-Rows-&-Columns-for-Heatmap)
+6. [Checking outliers for Heatmap](https://github.com/dzhao2019/FriendsDontLetFriends-Python#6.-Checking-outliers-for-Heatmap)
+7. [Don't Forget to Check Data Range](https://github.com/dzhao2019/FriendsDontLetFriends-Python#7.-Don't-Forget-to-Check-Data-Range)
+8. [Trying Different Layouts for Network Graphs](https://github.com/dzhao2019/FriendsDontLetFriends-Python#8.-Trying-Different-Layouts-for-Network-Graphs)
+9. [Position-based Visualizations vs. Length-based Visualizations](https://github.com/dzhao2019/FriendsDontLetFriends-Python#9.-Position-based-Visualizations-vs.-Length-based-Visualizations)
+10. [Pie Chart](https://github.com/dzhao2019/FriendsDontLetFriends-Python#10.-Pie-Chart)
+11. [Concentric Donuts](https://github.com/dzhao2019/FriendsDontLetFriends-Python#11.-Concentric-Donuts)
+12. [Choosing Colors: Red/Green & Rainbow Color Scales](https://github.com/dzhao2019/FriendsDontLetFriends-Python#12.-Choosing-Colors:-Red/Green-&-Rainbow-Color-Scales)
+13. [Reordering Stacked Bar Plot](https://github.com/dzhao2019/FriendsDontLetFriends-Python#13.-Reordering-Stacked-Bar-Plot)
+
 
 ### 1. Means Separation
 Bar plot vs. Box plot vs. Dot plot
@@ -51,7 +64,7 @@ Bar plot vs. Dot plot
 ### 8. Trying Different Layouts for Network Graphs
 
 
-### 9. Don't Confuse Position-based Visualizations with Length-based Visualizations
+### 9. Position-based Visualizations vs. Length-based Visualizations
 
 
 ### 10. Pie Chart
