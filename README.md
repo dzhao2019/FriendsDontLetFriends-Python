@@ -21,9 +21,9 @@ For more details and to explore the original project, visit the [FriendsDontLetF
 ## Python Version of FriendsDontLetFriends
 
 ### Table of Contents
-1. [Means Separation](https://github.com/dzhao2019/FriendsDontLetFriends-Python?tab=readme-ov-file#1-means-separation)
-2. [Small Sample Sizes](https://github.com/dzhao2019/FriendsDontLetFriends-Python###2.-Small-Sample-Sizes)
-3. [Unidirectional Data](https://github.com/dzhao2019/FriendsDontLetFriends-Python###3.-Unidirectional-Data)
+1. [Means Separation](https://github.com/dzhao2019/FriendsDontLetFriends-Python#1-means-separation)
+2. [Small Sample Sizes](https://github.com/dzhao2019/FriendsDontLetFriends-Python?tab=readme-ov-file#2-small-sample-sizes)
+3. [Unidirectional Data](https://github.com/dzhao2019/FriendsDontLetFriends-Python?tab=readme-ov-file#3-unidirectional-data)
 4. [Multi-factorial Experiment](https://github.com/dzhao2019/FriendsDontLetFriends-Python###4.-Multi-factorial-Experiment)
 5. [Reordering Rows & Columns for Heatmap](https://github.com/dzhao2019/FriendsDontLetFriends-Python###5.-Reordering-Rows-&-Columns-for-Heatmap)
 6. [Checking outliers for Heatmap](https://github.com/dzhao2019/FriendsDontLetFriends-Python###6.-Checking-outliers-for-Heatmap)
