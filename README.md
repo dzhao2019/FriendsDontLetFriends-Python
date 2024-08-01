@@ -3,18 +3,7 @@ This repository is the Python version of the FriendsDontLetFriends project, orig
 
 ## Introduction to FriendsDontLetFriends
 
-[FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) is an R-based project created by **CX Li** (email: cxli233@gmail.com) that focuses on comprehensive data analysis and visualization. The project exemplifies the best practices in data science, leveraging the power of R and its extensive ecosystem of packages to provide insightful analyses and compelling visualizations.
-
-### Overview
-
-The FriendsDontLetFriends repository is designed to showcase advanced techniques in data processing and visualization using R. It includes a series of R Markdown files (.rmd) that guide users through various data manipulation and visualization tasks. The repository is a valuable resource for data scientists, analysts, and anyone interested in learning how to effectively work with data in R.
-
-### Author
-
-**CX Li**  
-Email: cxli233@gmail.com
-
-### Original Repository
+[FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) is an R-based project created by **CX Li** (email: cxli233@gmail.com) that focuses on comprehensive data analysis and visualization. The project exemplifies the best practices in data science, leveraging the power of R and its extensive ecosystem of packages to provide insightful analyses and compelling visualizations. It includes a series of R Markdown files (.rmd) that guide users through various data manipulation and visualization tasks. The repository is a valuable resource for data scientists, analysts, and anyone interested in learning how to effectively work with data in R.
 
 For more details and to explore the original project, visit the [FriendsDontLetFriends GitHub repository](https://github.com/cxli233/FriendsDontLetFriends).
 
