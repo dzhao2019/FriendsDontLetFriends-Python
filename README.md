@@ -21,7 +21,7 @@ For more details and to explore the original project, visit the [FriendsDontLetF
 ## Python Version of FriendsDontLetFriends
 
 ### Table of Contents
-
+1. [Means Separation](https://github.com/dzhao2019/FriendsDontLetFriends-Python#1. Means Separation)
 
 ### 1. Means Separation
 Bar plot vs. Box plot vs. Dot plot
