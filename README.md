@@ -34,7 +34,11 @@ Mean separation plots are frequently used in scientific research to illustrate g
 In this example, the bar plot, box plot, and swarm plot show that while the two groups have similar means and standard deviations, their distributions differ significantly. This raises the question, "Are they truly the same?" It's a reminder to avoid using bar plots alone for mean separation and to consider alternative plots that provide a fuller picture of the data.
 
 ## 2. Small Sample Sizes
-Violet plot vs. Box plot vs. Dot plot
+Violin plots or any smoothed distribution curves are unreliable for small sample sizes. When sample sizes are small, distributions and quartiles can vary widely, even if the data points are similar. These measures only become meaningful when sample sizes are larger, generally stabilizing when n exceeds 50.
+
+![Violin_plot_for_small_n](https://github.com/dzhao2019/FriendsDontLetFriends-Python/blob/main/Results/02%20Violin_plot_for_small_n.png)
+
+Violet plot vs. Box plot vs. Strip plot
 
 ## 3. Unidirectional Data
 
