@@ -29,7 +29,7 @@ For more details and to explore the original project, visit the [FriendsDontLetF
 Bar plot vs. Box plot vs. Dot plot
 Mean separation plots are frequently used in scientific research to illustrate group differences. These plots compare two or more groups containing multiple observations and can highlight variations in their means, variances, and distributions. The main objective of these visualizations is to represent both the data's central tendency (mean) and dispersion (spread).
 
-![No Bar Plots for Means Separation](https://github.com/dzhao2019/FriendsDontLetFriends-Python/blob/main/Results/01_Mean_separation_plots.png) 
+![No Bar Plots for Means Separation](https://github.com/dzhao2019/FriendsDontLetFriends-Python/blob/main/Results/01%20Bar_plots_for_means_separation.png) 
 
 In this example, the bar plot, box plot, and swarm plot show that while the two groups have similar means and standard deviations, their distributions differ significantly. This raises the question, "Are they truly the same?" It's a reminder to avoid using bar plots alone for mean separation and to consider alternative plots that provide a fuller picture of the data.
 
