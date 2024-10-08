@@ -1,3 +1,14 @@
+"""
+Title: Violin_plot_for_small_n
+Author: dzhao
+Date: 8/1/2024
+Description: This script generates a series of plots (violin plot, box plot, and dot plot)
+to demonstrate how unreliable distribution and quartile measures are with small sample sizes (n=5).
+
+Requirements:
+- Python packages: numpy, pandas, matplotlib, seaborn, statsmodels, scipy
+"""
+
 # Import necessary libraries
 import numpy as np
 import pandas as pd

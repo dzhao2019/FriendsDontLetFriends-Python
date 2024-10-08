@@ -1,5 +1,5 @@
 """
-Title: Bar Charts Analysis
+Title: Bar_plots_for_means_separation
 Author: dzhao
 Date: 5/1/2024
 Description: This script generates a series of plots (bar plot, box plot, and dot plot)
