@@ -41,7 +41,9 @@ Violin plots or any smoothed distribution curves are unreliable for small sample
 Violet plot vs. Box plot vs. Strip plot
 
 ## 3. Unidirectional Data
+Using color gradients in data visualization requires careful consideration. The darkest and lightest colors in a gradient should have specific meanings, such as representing the maximum, minimum, or zero. A common mistake in visualizing data is applying arbitrary colors to values, which can mislead the viewer. This error is as misleading as having the longest bar in a bar chart not represent the largest value.
 
+![Divergent_gradient_for_unidirectional_data](https://github.com/dzhao2019/FriendsDontLetFriends-Python/blob/main/Results/03%20Divergent_gradient_for_unidirectional_data.png)
 
 ## 4. Multi-factorial Experiment
 Bar plot vs. Dot plot
